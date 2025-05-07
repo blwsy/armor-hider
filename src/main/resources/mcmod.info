@@ -1,0 +1,16 @@
+[
+{
+  "modid": "armorhider",
+  "name": "Armor",
+  "description": "Client-side hide your armor.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/blwsy/armor-hider",
+  "updateUrl": "",
+  "authorList": ["Blowsy 💖"],
+  "credits": "",
+  "logoFile": "assets/armorhider/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
